@@ -1,0 +1,24 @@
+/* mobile */
+@media screen and (max-width: 767px) {
+    #web_nav {
+        display: none;
+    }
+    #hamburger {
+        display: flex;
+    }
+    #mob_nav {
+        display: block;
+    }
+}
+/* 태블릿 */
+@media (max-width: 1024px) {
+    #web_nav {
+        display: none;
+    }
+    #hamburger {
+        display: flex;
+    }
+    #mob_nav {
+        display: block;
+    }
+}
